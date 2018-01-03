@@ -1,4 +1,4 @@
-# SSB_Scripts_Partitions_Buckets
+# SSB Scripts
 Scripts used for the WorldCist'18 publication
 
 Folder "Denormalized Table": 
