@@ -1,5 +1,5 @@
 # SSB Scripts
-Scripts used for the WorldCist'18 publication
+Scripts used for a benchmark that was conducted to evaluate the performance of a Hive BDW with different modelling and organization strategies. 
 
 Folder "Denormalized Table": 
   presto/hive_D_part_buckets - for the tables partitioned by one atribute and with bucketing by any attribute; 
